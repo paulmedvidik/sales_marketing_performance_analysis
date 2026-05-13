@@ -1,13 +1,13 @@
 # Sales & Marketing Performance Analysis
 
-##Overview
+## Overview
 This project is a business analytics case study to evaluate marketing effectiveness, discount incentives, forecasting sales performance, and identifying opportunities to improve profitability.
 
 Using statistical analysis, predictive modeling, and ooptimization techniques, this project analyzes the relationship between advertising spend, discount strategies, and overall sales performance. The analysis was conducted using Python, Excel, and business intelligence techniques to provide actionable recommendations for executive planning.
 
 ---
 
-##Business Problem
+## Business Problem
 TechGear, Inc. needed to better understand:
 - Which advertising platform generated the strongest ROI
 - Whether discount strategies positively impacted sales
